@@ -1,0 +1,6 @@
+{
+  "name": "SENA Inducción Interactiva - Normativa e Imagen Institucional",
+  "description": "Sistema interactivo para el seguimiento de la inducción de aprendices SENA: Reglamento del Aprendiz, identidad institucional, casos prácticos, cuestionarios y certificación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
